@@ -40,6 +40,12 @@ body {
     gap: 40px;
 }
 
+.intro-title {
+    font-size: 48px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
 .intro-head {
     max-width: 400px;
 }
@@ -68,3 +74,24 @@ span {
     width: 100px;
 }
 
+span:hover {
+    background-color: #77adff;
+    border-color: #77adff;
+}
+
+.content-title {
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 48px;
+    margin: 0px;
+    padding: 0px;
+    max-width: 1200px;
+    justify-content: center;
+    text-align: center;
+}
