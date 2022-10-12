@@ -77,7 +77,6 @@ a {
 
 .button-two {
     border: 2px solid #e5e7eb;
-    margin-top: 10px;
 }
 
 .button-one:hover {
@@ -138,8 +137,9 @@ a {
     height: 50px;
     background-color: #3882f6;
     border-radius: 8px;
-    padding: 15px 30px 18px 30px;
+    padding: 15px 30px;
     margin: 24px;
+    align-items: center;
 }
 
 .go {
