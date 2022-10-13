@@ -8,7 +8,7 @@ body {
     margin: 0;
 }
 
-.header {
+header {
     display: flex;
     flex-direction: column;
     align-content: center;
@@ -146,7 +146,7 @@ a {
     color: #e5e7eb;
 }
 
-.footer {
+footer {
     display: flex;
     padding: 16px;
     background-color: #1f2937;
