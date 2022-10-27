@@ -27,10 +27,12 @@ header {
 .links {
     display: flex;
     gap: 18px;
+    margin-right: 30px;
 }
 
 .logo {
     margin-right: auto;
+    margin-left: 30px;
 }
 
 .content-head {
@@ -53,6 +55,11 @@ header {
 .intro-img {
     min-width: 400px;
     object-fit: scale-down;
+    border-radius: 0.95rem;
+}
+
+.cards img {
+    border-radius: 0.7rem;
 }
 
 .intro-text {
